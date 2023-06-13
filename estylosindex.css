@@ -1,0 +1,85 @@
+body {
+    background-color: #182136;
+    background-image: url(fondoweb01.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navegador {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #603d3d;
+  }
+  .navegador li{
+    display: inline-block;
+    margin-right: 10px;
+  }
+  .navegador li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #151816;
+  }
+  .navegador li a:hover {
+    background-color: #182136;
+  }
+
+
+  .general {
+    color: #ebf2ed;
+    margin:auto;
+    width: 1000px;
+    height: 2000px;
+    
+
+  }
+  .header {
+    margin: 7px;
+    float: left;
+    width: 680px;
+    height: 1000px;
+    
+  }
+  .lateral {
+    
+    margin: 7px;
+    
+    float: right;
+    width: 290px;
+    height: 700px;
+    background-color: rgba(1, 1, 1, 0.344);
+    
+    
+  }
+  .navegador h3 {
+    color: black;
+  }
+  .orden {
+    background-color: #603d3d;
+   
+  }
+  .footer {
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+    
+  }
+  .titulo {
+    color: aqua;
+  }
+  .h4 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: chartreuse;
+  }
+  .articulo1 {
+    background-color: #182136;
+    color: forestgreen;
+  }
+  .vd {
+    color: red;
+  }
